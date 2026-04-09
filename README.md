@@ -1,2 +1,2 @@
-# Web-zoom
-Web-Zoom – Video Conferencing Platform 
+# Smart Meet
+Smart Meet – Video Conferencing Platform 
